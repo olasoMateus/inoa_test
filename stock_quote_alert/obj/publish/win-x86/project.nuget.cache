@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SVsPuTjBQztc+fRkD9YfbC5/Vt+QvaQzjoUZxEi02PEqVaSlethc4sItZmlfQcIkJVYBuBAxEbW1FDFSiV7+7A==",
+  "dgSpecHash": "jkOrYtK6VesmQZPxEt39xzBRfxPI88Bj0pc+oePH9dDi7kS56mi8cJB/Nc6hRxUGhM/+q31G02Pupsha8T/QIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mateus Olaso\\source\\repos\\inoa_test\\stock_quote_alert\\stock_quote_alert.csproj",
+  "projectFilePath": "C:\\Users\\Mateus Olaso\\source\\repos\\inoa_test\\inoa_test\\stock_quote_alert\\stock_quote_alert.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mateus Olaso\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
     "C:\\Users\\Mateus Olaso\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

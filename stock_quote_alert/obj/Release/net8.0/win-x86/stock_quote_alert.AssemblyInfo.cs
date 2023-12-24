@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stock_quote_alert")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68978f47d9571e022a614c2a9cd65ca74ebcce86")]
 [assembly: System.Reflection.AssemblyProductAttribute("stock_quote_alert")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stock_quote_alert")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -37,6 +37,8 @@ namespace inoa_test
         public void SendMail(string subject, string message)
         {
 
+            var tries = 0;
+
             var mailMessage = new MailMessage()
             {
                 From = new MailAddress(this.sender),
@@ -47,9 +49,21 @@ namespace inoa_test
 
             destinyMails.ForEach(d => mailMessage.To.Add(d));
 
-            smtpClient.Send(mailMessage);
+            while (true || tries > 3)
+            {
+                try
+                {
+                    smtpClient.Send(mailMessage);
+                    return;
+                }
+                catch (Exception ex) 
+                {
+                    Console.WriteLine(ex.Message);
+                    Console.WriteLine(Constants.ConsoleMessages.retryMail);
+                }
+            }
 
-
+            Console.WriteLine(Constants.ConsoleMessages.exceededRetries);
         }
     }
 }

@@ -27,6 +27,10 @@ namespace inoa_test
             public const string oneTimeWarningMessage = "Atenção! Opção de aviso apenas uma vez ativada!";
 
             public const string endingexecution = "Encerrando a execução do programa.";
+
+            public const string retryMail = "Tentando enviar e-mail novamente.";
+
+            public const string exceededRetries = "Execedidas o número de tentativas de reenvio.";
         }
 
         public static class ExceptionMessages
