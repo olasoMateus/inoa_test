@@ -1,0 +1,6 @@
+C:\Users\Mateus Olaso\Desktop\test\stock_quote_alert.exe
+C:\Users\Mateus Olaso\Desktop\test\stock_quote_alert.dll
+C:\Users\Mateus Olaso\Desktop\test\stock_quote_alert.deps.json
+C:\Users\Mateus Olaso\Desktop\test\stock_quote_alert.runtimeconfig.json
+C:\Users\Mateus Olaso\Desktop\test\stock_quote_alert.pdb
+C:\Users\Mateus Olaso\Desktop\test\Newtonsoft.Json.dll

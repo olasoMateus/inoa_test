@@ -1,0 +1,9 @@
+{
+    "destinyEmails": [
+    ],
+    "password": "",
+    "port": 587,
+    "smtpHost": "smtp.gmail.com",
+    "userName": "",
+    "oneTimeWarning": false
+  }

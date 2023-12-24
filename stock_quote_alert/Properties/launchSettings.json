@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "stock_quote_alert": {
+      "commandName": "Project",
+      "commandLineArgs": "petr4 36,2 25,98",
+      "workingDirectory": "C:\\Users\\Mateus Olaso\\Desktop"
+    }
+  }
+}

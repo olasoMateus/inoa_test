@@ -1,0 +1,2 @@
+C:\Users\Mateus Olaso\source\repos\inoa_test\stock_quote_alert.pdb
+C:\Users\Mateus Olaso\source\repos\inoa_test\stock_quote_alert.exe
